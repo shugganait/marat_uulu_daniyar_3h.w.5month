@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PixaBay</string>
+    <string name="word">Word</string>
+    <string name="enter_your_request">Enter your request</string>
+    <string name="search">Search</string>
+    <string name="next_page">next page</string>
+</resources>
